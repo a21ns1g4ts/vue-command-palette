@@ -69,7 +69,7 @@ With macOS's `Spotlight` and `Raycast`'s command palette experience in mind, `vu
 ```bash
 yarn add vue-command-palette
 # or
-pnpm add vue-command-palette
+npm add vue-command-palette
 ```
 
 ## Usage
